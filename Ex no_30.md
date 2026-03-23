@@ -5,7 +5,7 @@ To write a C program to add two integer elements in an array using realloc() and
 
 ## Algorithm
    
-1. Start.
+1. Start. 
 2. Declare array size
 3. Initialize array elements using malloc()
 4. Update array size using realloc()
